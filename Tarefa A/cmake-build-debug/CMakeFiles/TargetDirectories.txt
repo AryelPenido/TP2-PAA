@@ -1,0 +1,3 @@
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/cmake-build-debug/CMakeFiles/Tarefa_A.dir
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/cmake-build-debug/CMakeFiles/edit_cache.dir

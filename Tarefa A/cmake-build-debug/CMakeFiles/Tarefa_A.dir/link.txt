@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Tarefa_A.dir/main.c.o CMakeFiles/Tarefa_A.dir/Piramide.c.o  -o Tarefa_A 

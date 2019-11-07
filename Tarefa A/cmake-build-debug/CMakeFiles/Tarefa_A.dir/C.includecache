@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/Piramide.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+PiramideCerto.h
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/PiramideCerto.h
+
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/PiramideCerto.h
+
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/main.c
+stdio.h
+-
+stdlib.h
+-
+Piramide.c
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/Tarefa A/Piramide.c
+time.h
+-
+
