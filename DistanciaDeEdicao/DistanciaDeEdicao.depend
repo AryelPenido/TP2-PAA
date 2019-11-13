@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573420143 source:c:\users\hilli\onedrive\documentos\linux\documentos\ufv\paa\distanciadeedicao\tad_de.c
+	"TAD_de.h"
+	<stdio.h>
+
+1573414604 c:\users\hilli\onedrive\documentos\linux\documentos\ufv\paa\distanciadeedicao\tad_de.h
+
+1573412817 source:c:\users\hilli\onedrive\documentos\linux\documentos\ufv\paa\distanciadeedicao\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"TAD_de.h"
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/DistanciaDeEdicao/TAD_de.c
+TAD_de.h
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/DistanciaDeEdicao/TAD_de.h
+stdio.h
+-
+
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/DistanciaDeEdicao/TAD_de.h
+
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/DistanciaDeEdicao/main.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+TAD_de.h
+/home/aryels/Área de Trabalho/UFV/PAA/TP2PAA/DistanciaDeEdicao/TAD_de.h
+time.h
+-
+
